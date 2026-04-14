@@ -232,7 +232,7 @@ p { margin-bottom: 1rem; }
 .section-subtext {
   color: var(--ls-slate);
   font-size: 1.1rem;
-  max-width: 620px;
+  max-width: 800px;
   margin-bottom: 3rem;
   line-height: 1.7;
 }
